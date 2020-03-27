@@ -1,0 +1,22 @@
+Average coordinate population 1.667
+Most complex coordinate No. 1 , population = 2 
+s 1     1.00   STRE    1    2   OH    0.965340  f3913 100
+       -1.00           1    3   OH    0.965340
+s 2     1.00   STRE    1    2   OH    0.965340  f3799 100
+        1.00           1    3   OH    0.965340
+s 3     1.00   BEND    3    1    2   HOH   103.74  f1665 100
+****
+ 2 STRE modes:
+  1  2
+ 1 BEND modes:
+  3
+ 0 TORS modes:
+
+ 0 CH modes:
+
+ 0 USER modes:
+
+
+alternative coordinates 2 
+s 1     1.00   STRE    1    2   OH    0.965340
+s 2     1.00   STRE    1    3   OH    0.965340

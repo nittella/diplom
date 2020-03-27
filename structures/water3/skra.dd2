@@ -1,0 +1,54 @@
+Average max. Potential Energy <EPm> = 47.829
+TED Above 100 Factor TAF=0.104
+s 1     1.00   STRE    1    2   OH    0.964757  f3889 96
+s 2     1.00   STRE    4    5   OH    0.964421  f3893 93
+s 3     1.00   STRE    7    9   OH    0.964308  f3896 93
+s 4     1.00   STRE    1    3   OH    0.980321  f3614 15  f3599 45  f3539 35
+s 5     1.00   STRE    4    6   OH    0.979362  f3614 76  f3539 18
+s 6     1.00   STRE    7    8   OH    0.980464  f3599 49  f3539 42
+s 7     1.00   STRE    1    8   OH    1.883205  f231 47  f194 36
+s 8     1.00   STRE    4    3   OH    1.885598  f231 35  f194 43
+s 9     1.00   BEND    7    8    1   OHO   149.67  f913 20  f722 13  f474 20  f201 15
+s 10    1.00   BEND    2    1    8   HOH   123.54  f270 53  f220 11
+s 11    1.00   BEND    5    4    3   HOH   127.56  f722 10  f383 20  f201 23  f183 29
+s 12    1.00   BEND    9    7    8   HOH   107.10  f1653 22  f1625 63
+s 13    1.00   BEND    6    4    3   HOH    92.04  f1653 17  f913 24  f606 45
+s 14    1.00   BEND    8    1    3   HOH    90.72  f201 28  f183 21
+s 15    1.00   BEND    4    3    1   OHO   149.48  f722 12  f474 22  f201 15  f183 25
+s 16    1.00   TORS    2    1    8    7   HOHO  -248.09  f1653 13  f1629 17  f913 10  f383 13  f270 13
+s 17    1.00   TORS    5    4    3    1   HOHO  -117.94  f1653 21  f1629 15
+s 18    1.00   TORS    9    7    8    1   HOHO  -224.63  f220 51  f194 11
+s 19    1.00   TORS    6    4    3    1   HOHO    -4.34  f1629 34  f722 12  f606 18
+s 20    1.00   TORS    7    8    1    3   OHOH     1.15  f722 10  f383 25  f270 13  f220 10
+s 21    1.00   TORS    4    3    1    8   OHOH     0.19  f722 18  f368 50
+****
+ 8 STRE modes:
+  1  2  3  4  5  6  7  8
+ 7 BEND modes:
+  9 10 11 12 13 14 15
+ 6 TORS modes:
+ 16 17 18 19 20 21
+ 0 CH modes:
+
+ 14 USER modes:
+  7  8  9 10 11 13 14 15 16 17 18 19 20 21
+
+alternative coordinates 18 
+k 9     1.00   STRE    7    6   OH    1.914602
+k 10    1.00   BEND    2    1    3   HOH   106.77
+k 11    1.00   BEND    5    4    6   HOH   107.19
+k 12    1.00   BEND    9    7    6   HOH   131.82
+k 13    1.00   BEND    7    6    4   OHO   146.67
+k 16    1.00   TORS    2    1    3    4   HOHO  -125.32
+k 16    1.00   OUT     1    8    3    2   OHHH    25.66
+k 17    1.00   TORS    5    4    6    7   HOHO  -219.68
+k 17    1.00   OUT     4    3    6    5   OHHH    23.47
+k 18    1.00   TORS    9    7    6    4   HOHO  -123.86
+k 18    1.00   OUT     7    8    6    9   OHHH    22.15
+k 19    1.00   TORS    7    6    4    3   OHOH     9.81
+k 20    1.00   TORS    6    7    8    1   HOHO     0.74
+k 20    1.00   TORS    8    7    6    4   HOHO    -9.73
+v 3     1.00   STRE    7    6   OH    1.914602
+v 5     1.00   STRE    7    6   OH    1.914602
+v 9     1.00   BEND    6    7    8   HOH    90.91
+v 21    1.00   TORS    4    6    7    8   OHOH    -9.73

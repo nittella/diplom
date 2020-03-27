@@ -1,0 +1,23 @@
+,calc_freq,peak_position,intencity,functional_group,carboxyl,ketone,hydroxide
+0,3605.2716060000002,3605.0,104.0,carboxyl,True,False,False
+1,3096.8539100000003,3093.0,6.0,hydrogen,False,False,False
+2,3096.126286,3093.0,6.0,hydrogen,False,False,False
+3,3082.693964,3093.0,6.0,hydrogen,False,False,False
+4,3062.885358,3064.0,6.0,hydrogen,False,False,False
+5,1756.445376408,1756.0,355.0,carboxyl,True,False,False
+6,1606.493338968,1586.0,29.0,carbon hydrogen,False,False,False
+7,1585.9874957279999,1586.0,29.0,carbon hydrogen,False,False,False
+8,1477.115660712,1477.0,5.0,carbon hydrogen,False,False,False
+9,1428.60637236,1429.0,68.0,carbon hydrogen,False,False,False
+10,1339.43776524,1339.0,154.0,carboxyl hydrogen,True,False,False
+11,1327.44747504,1339.0,154.0,carbon hydrogen,False,False,False
+12,1277.0882562,1277.0,14.0,carbon hydrogen,False,False,False
+13,1177.015825992,1172.0,267.0,carbon hydrogen,False,False,False
+14,1165.563875352,1172.0,267.0,carbon hydrogen,False,False,False
+15,1101.266555904,1101.0,78.0,carbon carboxyl,True,False,False
+16,1092.7510028640002,1101.0,78.0,carbon hydrogen,False,False,False
+17,1078.04943888,1101.0,78.0,carbon hydrogen,False,False,False
+18,992.06192916,992.0,1.0,carbon,False,False,False
+19,978.730684056,992.0,1.0,carbon hydrogen,False,False,False
+20,924.5247843599999,916.0,7.0,hydrogen,False,False,False
+21,910.557319776,916.0,7.0,carbon hydrogen,False,False,False

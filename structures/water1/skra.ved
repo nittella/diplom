@@ -1,0 +1,20 @@
+
+diagonality factor = 81.57   <EPm> = 99.94
+
+  3912.60  3799.49  1665.29
+
+PED: sign = direction,  column = coordinate,  row = No. of mode
+       1   2   3
+   1 100   0   0   1 
+   2   0 100   0   2 
+   3   0   0 100   3 
+       1   2   3
+
+TED:    sum = 100,   column = coordinate,  row = No. of mode
+       1   2   3
+   1 100   0   0   1 
+   2   0 100   0   2 
+   3   0   0 100   3 
+       1   2   3
+
+TED Above 100 Factor TAF=0.000
